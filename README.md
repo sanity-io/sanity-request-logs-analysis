@@ -1,6 +1,9 @@
 # Request log scripts
 
-This repository contains a collection of scripts to help parse request logs. Reference: [Request log schema](https://www.sanity.io/docs/reference-request-log-data).
+This repository is intended to contain a collection of scripts to help parse request logs. Reference: [Request log schema](https://www.sanity.io/docs/reference-request-log-data).
+More scripts will be added over time. 
+
+PR's welcome!
 
 ## Jupyter Notebook
 
